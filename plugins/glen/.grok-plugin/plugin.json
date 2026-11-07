@@ -1,8 +1,11 @@
 {
   "name": "glen",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Shared team memory for coding agents: automatic capture on every turn and team-memory recall via the glen CLI.",
-  "author": { "name": "Glen", "url": "https://tryglen.com" },
+  "author": {
+    "name": "Glen",
+    "url": "https://tryglen.com"
+  },
   "homepage": "https://tryglen.com",
   "repository": "https://github.com/Glen-Web-App/glen-grok-plugin",
   "license": "MIT"
