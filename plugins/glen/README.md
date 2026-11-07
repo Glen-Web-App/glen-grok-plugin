@@ -92,9 +92,6 @@ The glen CLI also reports content-free error codes about itself (error code, com
 versions; never prompts, paths, flag values or content), incognito included. Turn this off with
 `glen telemetry disable` or `DO_NOT_TRACK=1`.
 
-Glen never sends data to any third party. All memory is stored in your org's private
-glen instance.
-
 ## Updating
 
 Grok updates installed plugins when a session starts, unless your organization turned
@@ -140,9 +137,3 @@ glen update
 **No active organization error:** run `glen org switch` to select an org, or
 `glen org list` to see your memberships. If the list itself fails with an auth error,
 run `glen login` to reconnect.
-
----
-
-> **Note:** This repository is generated from the
-> [glen monorepo](https://github.com/Glen-Web-App/glen) (`packages/grok-plugin`).
-> Please open pull requests and issues there, not here.
