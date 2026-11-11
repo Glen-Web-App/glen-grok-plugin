@@ -1,6 +1,6 @@
 {
   "name": "glen",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Shared team memory for coding agents: automatic capture on every turn and team-memory recall via the glen CLI.",
   "author": {
     "name": "Glen",
